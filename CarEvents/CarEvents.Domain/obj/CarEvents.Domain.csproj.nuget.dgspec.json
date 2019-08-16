@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ganga.Ashok\\Documents\\xamarin\\CarEvents\\CarEvents.Domain\\CarEvents.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ganga.Ashok\\Documents\\xamarin\\CarEvents\\CarEvents.Domain\\CarEvents.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ganga.Ashok\\Documents\\xamarin\\CarEvents\\CarEvents.Domain\\CarEvents.Domain.csproj",
+        "projectName": "CarEvents.Domain",
+        "projectPath": "C:\\Users\\Ganga.Ashok\\Documents\\xamarin\\CarEvents\\CarEvents.Domain\\CarEvents.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ganga.Ashok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ganga.Ashok\\Documents\\xamarin\\CarEvents\\CarEvents.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ganga.Ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

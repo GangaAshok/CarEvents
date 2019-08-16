@@ -1,0 +1,30 @@
+{
+  "Cardetail":  [
+    {
+        "id": 2,
+        "modelName": "Vento",
+        "make": "Volkswagan",
+        "carTypeId": 1,
+        "carType": null,
+        "description": "Maruti Suzuki Baleno gets a mid-life update with fresh set of cosmetic and added features inside the cabin. The vehicle is available in four trims – Sigma, Delta, Zeta and Alpha. The vehicle is available in petrol and diesel engine options. The vehicle is available in six colour options – pearl artic white, premium silver, nexa blue, autumn orange, phoenix red and magma grey.The Baleno hatchback now features a revised bumper which sports a wider centre air-dam and air ducts on either side which are surrounded by the C-shaped profile. The new grille features a three-dimensional detailing and has been slightly tweaked to make the face look wider. The vehicle now gets precision cut two tone 16-inch alloy wheels.For freshness, the Baleno now gets black interiors with premium blue detailing. The hatchback gets a dual tone seat fabric design and an upgraded next generation Smartplay Studio connected infotainment system with Apple CarPlay and Android Auto. The device also gives out vehicle information and alerts on low fuel, parking brake, etc. Standard safety features includes dual front airbags, ABS with EBD, ISOFIX child seat mounts and rear parking sensors are standard.Under the hood, the Baleno is powered by a 1.2-litre petrol engine that generates 84bhp of power and 140Nm of torque. The diesel on the other hand gets a 1.3-litre engine that generates 75bhp of power and 190Nm of torque. Both the engines get a five speed manual as standard, while the petrol offers a CVT option.",
+        "launchDate": "2019-09-01T00:00:00",
+        "isAvailable": true,
+        "price": 567000
+        //"image": "../../../assets/baleno.jpg"
+    }
+    {
+        "id": 2,
+        "modelName": "Vento",
+        "make": "Volkswagan",
+        "carTypeId": 1,
+        "carType": null,
+        "description": "Maruti Suzuki Baleno gets a mid-life update with fresh set of cosmetic and added features inside the cabin. The vehicle is available in four trims – Sigma, Delta, Zeta and Alpha. The vehicle is available in petrol and diesel engine options. The vehicle is available in six colour options – pearl artic white, premium silver, nexa blue, autumn orange, phoenix red and magma grey.The Baleno hatchback now features a revised bumper which sports a wider centre air-dam and air ducts on either side which are surrounded by the C-shaped profile. The new grille features a three-dimensional detailing and has been slightly tweaked to make the face look wider. The vehicle now gets precision cut two tone 16-inch alloy wheels.For freshness, the Baleno now gets black interiors with premium blue detailing. The hatchback gets a dual tone seat fabric design and an upgraded next generation Smartplay Studio connected infotainment system with Apple CarPlay and Android Auto. The device also gives out vehicle information and alerts on low fuel, parking brake, etc. Standard safety features includes dual front airbags, ABS with EBD, ISOFIX child seat mounts and rear parking sensors are standard.Under the hood, the Baleno is powered by a 1.2-litre petrol engine that generates 84bhp of power and 140Nm of torque. The diesel on the other hand gets a 1.3-litre engine that generates 75bhp of power and 190Nm of torque. Both the engines get a five speed manual as standard, while the petrol offers a CVT option.",
+        "launchDate": "2019-09-01T00:00:00",
+        "isAvailable": true,
+        "price": 567000
+        //"image": "../../../assets/baleno.jpg"
+    }
+    ]
+}  
+
+

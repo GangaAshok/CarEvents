@@ -1,0 +1,11 @@
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\bin\Debug\netcoreapp2.2\CarEvents.Domain.deps.json
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\bin\Debug\netcoreapp2.2\CarEvents.Domain.runtimeconfig.json
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\bin\Debug\netcoreapp2.2\CarEvents.Domain.runtimeconfig.dev.json
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\bin\Debug\netcoreapp2.2\CarEvents.Domain.dll
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\bin\Debug\netcoreapp2.2\CarEvents.Domain.pdb
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\obj\Debug\netcoreapp2.2\CarEvents.Domain.csprojAssemblyReference.cache
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\obj\Debug\netcoreapp2.2\CarEvents.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\obj\Debug\netcoreapp2.2\CarEvents.Domain.AssemblyInfoInputs.cache
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\obj\Debug\netcoreapp2.2\CarEvents.Domain.AssemblyInfo.cs
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\obj\Debug\netcoreapp2.2\CarEvents.Domain.dll
+C:\Users\Ganga.Ashok\Documents\xamarin\CarEvents\CarEvents.Domain\obj\Debug\netcoreapp2.2\CarEvents.Domain.pdb
